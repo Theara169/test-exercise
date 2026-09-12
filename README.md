@@ -100,6 +100,12 @@ npm install
 
 Open the `exercises` folder.
 
+## If you want to test in only one exercise 
+## juse use command
+```bash
+npm test --exercise01.test.js
+```
+
 For example:
 
 ```text
